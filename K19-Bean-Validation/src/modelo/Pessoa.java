@@ -32,4 +32,7 @@ public class Pessoa {
 	public void te(){
 		
 	}
+	
+	public void teste(){
+	}
 }
